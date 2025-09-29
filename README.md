@@ -65,12 +65,6 @@ This script automates the entire process—turning hours of manual work into a m
     │       ├── ... (all other processed images)
     │       └── ic_near_me_black_48dp.jpeg
     ├── README.md
-    └── sales_summary_automation/
-        ├── car_data.py
-        ├── combine_email_report.py
-        ├── email.py
-        ├── Problem_statement.md
-        └── report.py
 
 
 ## 🔄 How It Works
